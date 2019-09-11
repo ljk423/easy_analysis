@@ -1,8 +1,16 @@
+#  Copyright (c) 2019. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#  Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+#  Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+#  Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+#  Vestibulum commodo. Ut rhoncus gravida arcu.
+#  Created by LEEJUNKI
+#  Copyright © 2019 LEEJUNKI. All rights reserved.
+#  github :: https://github.com/ljk423
+
 # easy_analysis_tool
 # May 2019
 # Free to use
 # Can add various machinelearning deeplearning algorithms
-# Copyrights @ljk423
 # require module : xgboost, pandas, numpy, sklearn, matplotlib, graphviz, sys, seaborn, warnings, fancyimpute
 
 import sys
